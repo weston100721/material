@@ -24,3 +24,5 @@
 3. [Hexo博客更换主题](http://www.tuicool.com/articles/zeIZJzv)
 4. [Hexo官网](https://hexo.io/)
 5. [好看的Hexo主题](https://www.zhihu.com/question/24422335)
+6. [NexT的github wiki](https://github.com/iissnan/hexo-theme-next/wiki)
+7. [NexT官网](http://theme-next.iissnan.com/)
