@@ -26,3 +26,7 @@
 5. [好看的Hexo主题](https://www.zhihu.com/question/24422335)
 6. [NexT的github wiki](https://github.com/iissnan/hexo-theme-next/wiki)
 7. [NexT官网](http://theme-next.iissnan.com/)
+
+### 4. java虚拟机原理
+
+１. [Java虚拟机原理图解](http://blog.csdn.net/column/details/jvm-principle.html)
