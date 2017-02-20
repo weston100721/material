@@ -36,3 +36,7 @@
 
 1. [官网安装](http://couchdb.apache.org/developer-preview/2.0/)
 2. [维基百科](https://cwiki.apache.org/confluence/display/COUCHDB/Ubuntu)
+
+### javascript
+
+1. [老姚如何学前端](https://zhuanlan.zhihu.com/p/23265155)
