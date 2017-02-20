@@ -11,6 +11,7 @@
 2. [帮你深入理解OAuth2.0协议](http://blog.csdn.net/seccloud/article/details/8192707)
 3. [Shiro的示例demo](https://github.com/zhangkaitao/shiro-example)
 4. [oauth2官网](https://oauth.net/2/)
+5. [SpringBoot+shiro整合学习之登录认证和权限控制](http://z77z.oschina.io/2017/02/13/SpringBoot+shiro%E6%95%B4%E5%90%88%E5%AD%A6%E4%B9%A0%E4%B9%8B%E7%99%BB%E5%BD%95%E8%AE%A4%E8%AF%81%E5%92%8C%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/)
 
 ### 2. 代码规范
 
