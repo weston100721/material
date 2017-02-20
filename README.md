@@ -27,10 +27,10 @@
 6. [NexT的github wiki](https://github.com/iissnan/hexo-theme-next/wiki)
 7. [NexT官网](http://theme-next.iissnan.com/)
 
-### 4. java虚拟机原理
+### 4. java
 
-１. [Java虚拟机原理图解](http://blog.csdn.net/column/details/jvm-principle.html)
-
+1. [Java虚拟机原理图解](http://blog.csdn.net/column/details/jvm-principle.html)
+2. [我的java问题排查工具单](https://yq.aliyun.com/articles/69520)
 
 ### couchdb-2.0 在ubuntu机器上的安装
 
