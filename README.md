@@ -38,7 +38,7 @@
 1. [Mac下git命令自动补全](http://blog.csdn.net/zhangt85/article/details/43611997)
 2. [iterm2](http://www.iterm2.com)
 
-### couchdb-2.0 在ubuntu机器上的安装
+### 6. couchdb-2.0 在ubuntu机器上的安装
 
 1. [官网安装](http://couchdb.apache.org/developer-preview/2.0/)
 2. [维基百科](https://cwiki.apache.org/confluence/display/COUCHDB/Ubuntu)
