@@ -37,11 +37,18 @@
 
 1. [Mac下git命令自动补全](http://blog.csdn.net/zhangt85/article/details/43611997)
 2. [iterm2](http://www.iterm2.com)
+3. [前端IDE](http://www.cnblogs.com/gavin007/p/6379384.html)
 
 ### 6. couchdb-2.0 在ubuntu机器上的安装
 
 1. [官网安装](http://couchdb.apache.org/developer-preview/2.0/)
 2. [维基百科](https://cwiki.apache.org/confluence/display/COUCHDB/Ubuntu)
+
+### 7. 技术之外
+1. [技术的正宗与野路子](http://kb.cnblogs.com/page/554496/)
+
+### 8. 分布式
+1. [各种分布式文件系统简介](http://elf8848.iteye.com/blog/1724382)
 
 ### javascript
 
