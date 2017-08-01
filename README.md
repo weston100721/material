@@ -50,6 +50,13 @@
 ### 8. 分布式
 1. [各种分布式文件系统简介](http://elf8848.iteye.com/blog/1724382)
 
-### javascript
+### 9. javascript
 
 1. [老姚如何学前端](https://zhuanlan.zhihu.com/p/23265155)
+
+### 10. 我学前端的路线
+1. [w3c HTML](http://www.w3school.com.cn/html/index.asp)
+2. [W3C javascript](http://www.w3school.com.cn/html/index.asp)
+3. [阮一峰的javascript教程](http://javascript.ruanyifeng.com/)
+4. [JavaScript_DOM编程艺术第二版（中文](http://item.jd.com/10603153.html)
+5. [JavaScript高级程序设计](http://item.jd.com/10951037.html)
