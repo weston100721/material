@@ -55,8 +55,8 @@
 1. [老姚如何学前端](https://zhuanlan.zhihu.com/p/23265155)
 
 ### 10. 我学前端的路线
-1. [w3c HTML](http://www.w3school.com.cn/html/index.asp)
+1. [W3C HTML](http://www.w3school.com.cn/html/index.asp)
 2. [W3C javascript](http://www.w3school.com.cn/html/index.asp)
 3. [阮一峰的javascript教程](http://javascript.ruanyifeng.com/)
-4. [JavaScript_DOM编程艺术第二版（中文](http://item.jd.com/10603153.html)
+4. [JavaScript DOM编程艺术（第2版)](http://item.jd.com/10603153.html)
 5. [JavaScript高级程序设计](http://item.jd.com/10951037.html)
