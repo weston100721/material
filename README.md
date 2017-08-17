@@ -51,10 +51,12 @@
 1. [各种分布式文件系统简介](http://elf8848.iteye.com/blog/1724382)
 
 ### 9. javascript
-
 1. [老姚如何学前端](https://zhuanlan.zhihu.com/p/23265155)
 
-### 10. 我学前端的路线
+### 10. git
+1. [git权威指南](http://www.worldhello.net/gotgit/#)
+
+### 11. 我学前端的路线
 1. [W3C HTML](http://www.w3school.com.cn/html/index.asp)
 2. [W3C javascript](http://www.w3school.com.cn/html/index.asp)
 3. [阮一峰的javascript教程](http://javascript.ruanyifeng.com/)
