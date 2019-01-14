@@ -32,6 +32,7 @@
 
 1. [Java虚拟机原理图解](http://blog.csdn.net/column/details/jvm-principle.html)
 2. [我的java问题排查工具单](https://yq.aliyun.com/articles/69520)
+3. [如何高效读写百万级的Excel](https://juejin.im/post/5c3bf2d5518825251077c606)
 
 ### 5. mac os 软件安装
 
@@ -59,13 +60,13 @@
 ### 11. redis
 1. [面试前必须要知道的Redis面试题](https://juejin.im/post/5c3c1df2e51d45207f54b189)
 
-### 11. 我学前端的路线
+### 12. 我学前端的路线
 1. [W3C HTML](http://www.w3school.com.cn/html/index.asp)
 2. [W3C javascript](http://www.w3school.com.cn/html/index.asp)
 3. [阮一峰的javascript教程](http://javascript.ruanyifeng.com/)
 4. [JavaScript DOM编程艺术（第2版)](http://item.jd.com/10603153.html)
 5. [JavaScript高级程序设计](http://item.jd.com/10951037.html)
 
-### 12. hadoop
+### 13. hadoop
 1. [HDFS工作原理扫盲](http://developer.51cto.com/art/201603/507440.htm)
 2. [HDFS的运行原理](http://www.cnblogs.com/laov/p/3434917.html)
