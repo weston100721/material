@@ -34,6 +34,10 @@
 2. [我的java问题排查工具单](https://yq.aliyun.com/articles/69520)
 3. [如何高效读写百万级的Excel](https://juejin.im/post/5c3bf2d5518825251077c606)
 
+#### 线程池
+1. [ThreadPoolExecutor执行过程分析](https://segmentfault.com/a/1190000015368896)
+2. [Java常用四大线程池用法以及ThreadPoolExecutor详解](https://www.jianshu.com/p/ae67972d1156)
+
 ### 5. mac os 软件安装
 
 1. [Mac下git命令自动补全](http://blog.csdn.net/zhangt85/article/details/43611997)
